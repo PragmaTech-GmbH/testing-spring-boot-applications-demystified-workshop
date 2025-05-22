@@ -25,7 +25,12 @@ _Spring I/O Conference Workshop 21.05.2025_
 
 Philip Riecks - [PragmaTech GmbH](https://pragmatech.digital/) - [@rieckpil](https://x.com/rieckpil)
 
---- 
+---
+
+## Discuss Exercises from Lab 2
+
+---
+
 
 ![bg left:33%](assets/generated/lab-3.jpg)
 
@@ -35,9 +40,6 @@ Philip Riecks - [PragmaTech GmbH](https://pragmatech.digital/) - [@rieckpil](htt
 
 ---
 
-## Discuss Exercises from Lab 2
-
----
 <!-- _class: section -->
 
 # Starting Everything
